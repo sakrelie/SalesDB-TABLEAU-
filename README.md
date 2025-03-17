@@ -1,4 +1,4 @@
-**SalesDB - Tableau Sales Analysis -** <br />
+# **SalesDB - Tableau Sales Analysis -** <br />
 📊 A Tableau project for analyzing sales data using various table calculations, aggregations, and visualizations.
 
 **📌 Project Overview-**<br />
@@ -28,6 +28,9 @@ Cumulative Percentage of Sales: Analyzes contribution over time.<br />
 Combines all key metrics in an interactive dashboard.
 Displays percentage of total sales, max sales, previous customers’ total sales, and cumulative sales percentages.
 <br />
+**Screenshot<br />**
+![image](https://github.com/user-attachments/assets/9c3f9c22-7f66-4db2-aad6-43655cef96b3)
+
 **🔧 How to Use**-<br />
 Download the Tableau Workbook (.twbx file).<br />
 Open it in Tableau Desktop.<br />
@@ -46,4 +49,4 @@ Creating dynamic dashboards for business insights.<br />
 **📌 About the Project-**<br />
 This project was created as part of a Tableau visualization exercise to analyze sales performance. It demonstrates the use of advanced table calculations, ranking functions, and aggregation methods to drive business insights.<br />
 
-Let me know if you want any modifications! 
+
